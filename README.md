@@ -16,7 +16,7 @@ An AI-assisted resume builder tailoring platform built with **Angular, TypeScrip
 
 🌐 [View Tailr](https://resumebuilder.works/)
 
-### 🔐 Mini-Zeek (🚧 Work in Progress)
+### 🔐 Mini-Zeek
 Python network traffic analyzer for PCAP files.
 - Extracts network flows
 - Detects suspicious traffic patterns
