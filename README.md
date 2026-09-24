@@ -64,6 +64,6 @@ A Java Android application for browsing and editing historical artifacts with re
 
 ## 📚 Currently
 
-- 🔐 Building security and networking projects
+- 🔐 Building projects
 - 🌐 Learning applied security engineering
-- 💼 Preparing for software/security internships
+- 💼 Preparing for internships
